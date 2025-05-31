@@ -34,8 +34,8 @@ b.	Call the add() and sub() methods respectively
  ```
 /*
 Program to implement a Single Inheritance
-Developed by: Aakashraj M
-RegisterNumber: 212222100002 
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 */
 ```
 
