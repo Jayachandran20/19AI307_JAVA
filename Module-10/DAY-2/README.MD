@@ -21,8 +21,8 @@ To Create a java program to perform linkedlist, read size of the list , read the
  ```
 /*
 Program to implement a JAVA LINKED LIST using Java
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 */
 ```
 
