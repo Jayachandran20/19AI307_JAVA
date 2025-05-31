@@ -18,8 +18,8 @@ To Create a java program to reverse a given string using StringBuilder in Java.
  ```
 /*
 Program to implement a tightly encapsulated class using Java
-Developed by: Aakashraj M
-RegisterNumber:  212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber:  212222240038
 
 import java.util.*;
 class Reverse{
