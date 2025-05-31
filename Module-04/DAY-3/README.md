@@ -40,8 +40,8 @@ c. Call obj.print() → Executes Parrot class's print() method, which in turn ca
  ```
 /*
 Program to implement a Constructor Chaining using Java
-Developed by: Aakashraj M
-RegisterNumber:212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber:212222240038
 */
 ```
 
