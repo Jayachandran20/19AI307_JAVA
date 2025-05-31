@@ -23,8 +23,8 @@ To create a Java Program to implement Method Local Inner Class.
  ```
 /*
 Program to implement a Inner Class using Java
-Developed by: Aakashraj M
-RegisterNumber: 21222210002 
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 */
 ```
 
