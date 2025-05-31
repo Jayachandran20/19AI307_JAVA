@@ -14,8 +14,8 @@ To read student details (name, department, and roll number) from the user and di
  ```
 /*
 Program to implement a Buffer Input/Output Stream using Java
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 
  import java.io.BufferedReader;
 import java.io.IOException;
