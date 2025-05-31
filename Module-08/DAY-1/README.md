@@ -1,37 +1,53 @@
-# Ex.No:8(A)           IO-FILE STREAM
+# Ex.No:8(B) IO-FILE READER/WRITER
 ## AIM:
-To implement a Java Program to write a String in a file "testout.txt" using FileOutputStream
+To read characters from a string using StringReader and store them in a character array.
 
 ## ALGORITHM :
-1.  Define the string "Welcome to Saveetha" and convert it to a byte array b using getBytes().
-2.	Use Scanner to prompt the user for start (starting index) and length (number of bytes) to write from the string.
-3.	Open testout.txt using FileOutputStream, and write the specified portion of b from the start index for length bytes, then close the output stream.
-4.	Open testout.txt using FileInputStream, read its contents byte-by-byte, convert each byte to a character, and print it to display the file's content.
-5.	Use file.delete() to delete testout.txt.
-6.	Attempt to read the deleted file, which triggers a FileNotFoundException as the file no longer exists.
+
+1. Define a string `str` to read from.
+2. Create a `char` array `array` to store the read characters.
+3. Use `StringReader` to wrap the string and read its contents into the character array.
+4. Call `r.read(array)` to read characters from the string into the array.
+5. Print the characters stored in the array, handling any potential exceptions.
+
 
 
 ## PROGRAM:
  ```
 /*
-Program to implement a IO File Stream using Java
-Developed by: 
-RegisterNumber:  
+Program to implement a IO File Reader/Writer using Java
+Developed by: Aakashraj M
+RegisterNumber:  212222100002
+
+import java.util.*;
+import java.io.*;
+public class Demo{
+    public static void main(String args[]){
+    String str = "WELCOME ALL.";
+    char[] array = new char[12];
+      try
+      {
+          Reader r = new StringReader(str);
+         r.read(array);
+         System.out.println("Data read from the string:");
+         System.out.println(array);
+      }
+   catch(Exception e){
+                    System.out.println(e);}
+    }
+                    
+}
 */
 ```
-
-## Sourcecode.java:
-
-
-
-
-
 
 
 ## OUTPUT:
 
 
+![Screenshot 2025-05-10 062621](https://github.com/user-attachments/assets/cf313115-0581-4ec6-b740-6eb137e1e1f4)
 
 ## RESULT:
-Thus the implementation of a Java Program to write a String in a file "testout.txt" using FileOutputStream was executed and verified successfully
+Thus, the java program To read characters from a string using StringReader and store them in a character array executed successfully.
+
+
 
