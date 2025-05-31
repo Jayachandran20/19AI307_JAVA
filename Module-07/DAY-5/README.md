@@ -16,8 +16,8 @@ To compute the square of numbers in a synchronized block, ensuring thread safety
  ```
 /*
 Program to implement a Method Overloading in Java
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 
 class Table
     {  
