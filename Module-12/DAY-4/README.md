@@ -25,8 +25,8 @@ To Write a java program to create vector and read the elements for two vector in
  ```
 /*
 Program to implement a JAVA QUEUE using Java
-Developed by: Aakashraj M
-RegisterNumber: 212222100002 
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 */
 ```
 
