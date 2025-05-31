@@ -28,8 +28,8 @@ To develop a Java program to create a Thread using the extends Thread method and
  ```
 /*
 Program to implement a Thread concepts using Java
-Developed by: Aakashraj M
-RegisterNumber: 212222100002 
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 */
 ```
 
