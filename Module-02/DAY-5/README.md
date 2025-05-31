@@ -19,8 +19,8 @@ To write a Write a Java program to find the smallest and second smallest element
  ```
 /*
 Program to implement a Smallest Element in an Array
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 */
 ```
 
