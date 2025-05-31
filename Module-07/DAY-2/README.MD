@@ -12,8 +12,8 @@ To illustrate the use of `try-catch-finally` in handling an `ArrayIndexOutOfBoun
  ```
 /*
 Program to implement a Exception Handling-Finally using Java
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 
 import java.util.*;
 public class HelloWorld {
