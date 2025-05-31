@@ -15,8 +15,8 @@ To develop a java program to set the length of the character sequence equal to n
  ```
 
 Program to implement a String Buffer using Java
-Developed by: Aakashraj M
-RegisterNumber:  212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber:  212222240038
 
 import java.util.*;
 
