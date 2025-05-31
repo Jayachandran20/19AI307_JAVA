@@ -19,8 +19,8 @@ To Create a List interface implemented by arraylist class, adding n elements to 
  ```
 /*
 Program to implement a JAVA LIST INTERFACE using Java
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 */
 ```
 
