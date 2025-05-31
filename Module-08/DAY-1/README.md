@@ -16,8 +16,8 @@ To read characters from a string using StringReader and store them in a characte
  ```
 /*
 Program to implement a IO File Reader/Writer using Java
-Developed by: Aakashraj M
-RegisterNumber:  212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber:  212222240038
 
 import java.util.*;
 import java.io.*;
