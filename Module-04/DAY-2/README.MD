@@ -15,8 +15,8 @@ To demonstrate inheritance, data input, grade calculation, and display in Java.
  ```
 /*
 Program to implement a Inheritance using Java
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber: 212222240038
 */
 ```
 ```c
