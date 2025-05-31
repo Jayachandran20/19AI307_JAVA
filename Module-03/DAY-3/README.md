@@ -21,8 +21,8 @@ To Create a java program to read input and print length of the string in java an
  ```
 /*
 Program to implement a String Builder using Java
-Developed by: Aakashraj M
-RegisterNumber:  212222100002
+Developed by: M JAYACHANDRAN
+RegisterNumber:  212222240038
 */
 ```
 
